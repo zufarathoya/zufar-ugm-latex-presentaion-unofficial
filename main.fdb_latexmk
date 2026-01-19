@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1768810251.77519 "main.tex" "main.pdf" "main" 1768810252.37475 0
+["pdflatex"] 1768812115.63592 "main.tex" "main.pdf" "main" 1768812116.23703 0
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1755987285 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecss0500.tfm" 1755987285 3584 3cb5b0e5e7e89823423413806ab1d938 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecss0600.tfm" 1755987285 3584 29c1411d292c531bfea559d981c42321 ""
@@ -206,11 +206,11 @@
   "1.cls" 1768810229.26417 1639 be42ce13004021b2bb833430e9861680 ""
   "background/4/slide.png" 1768784304 67389 d64a4a532e0acfbdc98d26330b4dc0d6 ""
   "background/4/title.png" 1768784304 184891 361cb12bae4047f9a481035f8eed7117 ""
-  "main.aux" 1768810252.32865 719 572e16de66780eb60851374e7196524e "pdflatex"
-  "main.nav" 1768810252.32906 395 640a03f4d3f0f705896c1d8375ddfa75 "pdflatex"
-  "main.out" 1768810252.22665 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.aux" 1768812116.19394 719 572e16de66780eb60851374e7196524e "pdflatex"
+  "main.nav" 1768812116.19454 395 640a03f4d3f0f705896c1d8375ddfa75 "pdflatex"
+  "main.out" 1768812116.09649 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "main.tex" 1768810193.59302 183 dacd0b231912a12100336dcfce9b0bdd ""
-  "slides/slide1.tex" 1768809970.58495 618 7d91c49365d73478991ca2e684004e53 ""
+  "slides/slide1.tex" 1768812114.13736 283 31b9428c96eeb12b4d291662513ca7d3 ""
   "slides/title.tex" 1768810249.97764 185 71b13d1f5baeb2d97e41f5f6912b6147 ""
   (generated)
   "main.aux"
