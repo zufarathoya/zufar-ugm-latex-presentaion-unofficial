@@ -408,6 +408,10 @@ INPUT background/4/slide.png
 INPUT ./background/4/slide.png
 INPUT ./background/4/slide.png
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecss0500.tfm
+INPUT ./background/4/slide.png
+INPUT ./background/4/slide.png
+INPUT background/4/slide.png
+INPUT ./background/4/slide.png
 OUTPUT main.nav
 OUTPUT main.toc
 OUTPUT main.snm

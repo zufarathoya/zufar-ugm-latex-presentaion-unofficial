@@ -31,7 +31,7 @@
 % =====================================================
 \setbeamertemplate{title page}{
 	\begin{flushright}
-		\begin{minipage}{0.75\textwidth}
+		\begin{minipage}{0.65\textwidth}
 			\vspace{2cm}
 			{\usebeamerfont{title}\color{ugm-white}\inserttitle\par}
 			\vspace{0.5cm}
